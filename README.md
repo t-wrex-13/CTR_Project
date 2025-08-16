@@ -13,4 +13,4 @@ How can we build a model that overcomes the challenge of extreme data imbalance,
 [Link to the final project paper.](https://github.com/t-wrex-13/CTR_Project/blob/main/TH%20Project%20Final%20Report%20ACIP.pdf)
 
 
-Link to a video demonstration.
+[Link to a video demonstration.](https://youtu.be/HXyoRWNity0?si=UWS131R6R5jcLL9S)
