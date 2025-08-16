@@ -10,7 +10,7 @@ What are the most influential factors—from a user's behavior to an ad's charac
 
 How can we build a model that overcomes the challenge of extreme data imbalance, where clicks are far less frequent than non-clicks? We had to add heavy weights and use a massive amount of data to overcome this imbalance. In fact, an even LARGER data set than the 26 million data points from the Taobao data set might increase performance
 
-Link to the final project paper.
+[Link to the final project paper.](https://github.com/t-wrex-13/CTR_Project/blob/main/TH%20Project%20Final%20Report%20ACIP.pdf)
 
 
 Link to a video demonstration.
